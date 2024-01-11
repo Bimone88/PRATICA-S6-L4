@@ -1,0 +1,54 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Montserrat:ital@0;1&family=Open+Sans:wght@300&family=Poppins:wght@200&family=Roboto:wght@300&family=Spectral&display=swap');
+
+
+.bolder {
+    font-weight: bolder;
+}
+
+.cancel {
+    color:gainsboro;
+    font-size: 0.8em;
+    margin-left: 5px
+}
+
+section {
+    border-top: 1px solid black;
+    border-bottom:1px solid gainsboro
+}
+
+.titoli {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.bot {
+    margin-top: 100px;
+    font-family: 'Inter', sans-serif;
+}
+
+.p {
+    margin-top: 100px;
+    font-family: 'Inter', sans-serif;
+}
+
+h1, p, button, span {
+    font-family: 'Inter', sans-serif;
+}
+
+.cac {
+    margin-top: 50px;
+    font-family: 'Inter', sans-serif;
+}
+
+.boldi {
+    font-size: 1.1em;
+    font-weight: bolder;
+    font-family: 'Inter', sans-serif;
+    padding-right: 10px
+}
+
+.cassa {
+    position: relative;
+    right: 10px
+}
